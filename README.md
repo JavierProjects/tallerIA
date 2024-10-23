@@ -1,7 +1,7 @@
 # Taller de Inteligencia Artificial
 
-Ingeniería en Tecnologías de la Información y Comunicaciónes
-> By Dr. Francisco Javier Cuadros Romero
+Ingeniería en Tecnologías de la Información y Comunicaciónes @ITSOEH
+> By Dr. Francisco Javier Cuadros Romero fcuadros@itsoeh.edu.mx
 
 # Practicas
 - Ojos y nariz

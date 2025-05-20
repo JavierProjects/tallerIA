@@ -14,7 +14,7 @@ let wEars;
 let hEars;
 // let rotar = 0;
 
-let PUNTOS = true;
+let PUNTOS = false;
 
 function preload(){
   catEars = loadImage('data/orejas.gif');
